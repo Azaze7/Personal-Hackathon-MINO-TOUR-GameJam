@@ -2,7 +2,7 @@
 Player Build/Source Code of MINO-TOUR, a game created by "Atlas Development" for the 2025 Borderlands Glitch Game Jam. Won *Most Innovative* Award & 1st Place Overall. [🌿]
 
 <p align="center">
-<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Maverick_TitleScreen.png" height="375px"> 
+<img src="https://github.com/Azaze7/Personal-Hackathon-MINO-TOUR-GameJam/blob/main/ReadMeAssets/Mino-Tour_Title_Screen.gif" height="375px"> 
 </p>
 
 ## 🔎 Table of Contents.
